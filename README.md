@@ -22,7 +22,7 @@ Attendify is a robust attendance system designed for schools. Utilizing Azure Fu
 - SQL database setup
 
 ### Installation
-1. Clone the repository: `git clone https://github.com/PKaracs/Attendify/edit/main/`
+1. Clone the repository: `git clone https://github.com/PKaracs/Attendify/edit/main/](https://github.com/PKaracs/Attendify.git`
 2. Navigate to the project directory: `cd attendify`
 3. Install dependencies: `npm install`
 4. Configure Azure Functions and SQL database according to your Azure setup.
