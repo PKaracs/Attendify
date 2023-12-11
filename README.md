@@ -28,7 +28,7 @@ Attendify is a robust attendance system designed for schools. Utilizing Azure Fu
 4. Configure Azure Functions and SQL database according to your Azure setup.
 
 ### Running the Application
-1. Start the frontend server: `npm start`
+1. Start the frontend server: `npm run dev`
 2. Deploy Azure Functions as per Azure documentation.
 3. Access the application through the provided local URL.
 
